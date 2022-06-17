@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "name": "Pepsi",
+      "category": "Vegetables",
+      "freshness": "New brand",
+      "price": 123,
+      "comment": "qwe",
+      "date": "2022-06-15T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "name": "Apple",
+      "category": "Fruits",
+      "freshness": "New brand",
+      "price": 30,
+      "comment": "good for health",
+      "date": "2022-06-14T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "name": "borio",
+      "category": "Fruits",
+      "freshness": "New brand",
+      "price": 5.5,
+      "comment": "good ",
+      "date": "2022-06-06T22:00:00.000Z",
+      "id": 4
+    },
+    {
+      "name": "server",
+      "category": "Electronic",
+      "freshness": "Second hand",
+      "price": 1000,
+      "comment": " bad",
+      "date": "2022-06-16T22:00:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
